@@ -1,0 +1,3 @@
+.tab-line {
+    margin-top: calc(var(--tab-min-height) - 2px);
+}
