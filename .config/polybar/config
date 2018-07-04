@@ -9,7 +9,7 @@
 
 [colors]
 ;background = ${xrdb:color0:#222}
-background = #111111
+background = #252525
 background-alt = #465362
 ;foreground = ${xrdb:color7:#222}
 foreground = #EEE5E9
@@ -50,7 +50,7 @@ font-2 = fontawesome : pixelsize=10;1
 
 modules-left = bspwm i3
 modules-center = 
-modules-right = filesystem xbacklight volume xkeyboard memory cpu wlan eth battery temperature date powermenu
+modules-right = filesystem xbacklight volume memory cpu wlan eth battery temperature date powermenu
 
 tray-position = right
 tray-padding = 2
