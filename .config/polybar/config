@@ -9,7 +9,7 @@
 
 [colors]
 ;background = ${xrdb:color0:#222}
-background = #2B303A
+background = #111111
 background-alt = #465362
 ;foreground = ${xrdb:color7:#222}
 foreground = #EEE5E9
@@ -44,7 +44,7 @@ module-margin-left = 1
 module-margin-right = 2
 
 ;font-0 = ubuntu : pixelsize=11;1
-font-0 = sf pro text :weight=100: pixelsize=11;1
+font-0 = open sans :weight=150: pixelsize=11;1
 font-1 = unifont : fontformat=truetype:size=8:antialias=false;0
 font-2 = fontawesome : pixelsize=10;1
 
